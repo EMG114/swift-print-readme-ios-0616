@@ -17,3 +17,8 @@ print("Hi Mom! My favorite word is \(favoriteWord), my favorite color is \(favor
 
 var skySentence = "The sky is \(color)."
 print(skySentence)
+
+var status = "now"
+let favoriteLanguage = "Swift is \(status)"
+
+print (favoriteLanguage)
